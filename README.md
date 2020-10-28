@@ -1,2 +1,2 @@
 # Guanu
-Guanu is a e-commerce Framewok base on Symfony framework
+Guanu is a e-commerce Framework base on Symfony framework
